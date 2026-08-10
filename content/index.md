@@ -1,8 +1,8 @@
 ---
 publish: true
-title: aboba
+title: Welcome to Quartz
 created: 2026-08-10 18:15
-modified: 2026-08-10 18:18
+modified: 2026-08-10 18:23
 ---
 
-Тестовая запись
+я явно что-то не понимаю
