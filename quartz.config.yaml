@@ -278,14 +278,6 @@ plugins:
     order: 50
     options:
       theme: aaaa
-  - source: github:quartz-community/citations
-    enabled: false
-    order: 50
-    options:
-      bibliographyFile: ./bibliography.bib
-      suppressBibliography: false
-      linkCitations: false
-      csl: apa
 layout:
   groups:
     toolbar:
