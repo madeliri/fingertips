@@ -274,6 +274,21 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source:
+      name: quartz-themes
+      repo: github:saberzero1/quartz-themes
+      subdir: plugin
+    enabled: true
+    order: 50
+    options: {}
+  - source: github:quartz-community/citations
+    enabled: true
+    order: 50
+    options:
+      bibliographyFile: ./bibliography.bib
+      suppressBibliography: false
+      linkCitations: false
+      csl: apa
 layout:
   groups:
     toolbar:
