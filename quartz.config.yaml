@@ -279,7 +279,7 @@ plugins:
     options:
       theme: aaaa
   - source: github:quartz-community/citations
-    enabled: true
+    enabled: false
     order: 50
     options:
       bibliographyFile: ./bibliography.bib
