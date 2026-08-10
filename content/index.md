@@ -1,8 +1,10 @@
 ---
 publish: true
-title: aboba
-created: 2026-08-10 18:15
-modified: 2026-08-10 18:18
+title: Welcome to Quartz
+created: 2026-08-10T15:15:14.388Z
+modified: 2026-08-10 18:19
 ---
 
-Тестовая запись
+This is a blank Quartz installation.
+
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
